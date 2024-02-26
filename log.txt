@@ -1,0 +1,121 @@
+ [info     / 134kB] Task 2 is started
+2021-01-01 00:00:04 [debug    / 132kB]   - connecting
+2021-01-01 00:00:04 [error    / 130kB] Wifi is not connected
+2021-01-01 00:00:04 [info     / 128kB] Wifi connection is False
+2024-02-26 23:29:01 [info     / 133kB] Pico is Powered on 
+2024-02-26 23:29:01 [info     / 131kB] Task 1 is started
+2024-02-26 23:29:01 [info     / 129kB] Startup pico
+2024-02-26 23:29:01 [info     / 128kB] Startup pico
+2024-02-26 23:29:01 [info     / 137kB] Wifi connection is True
+2024-02-26 23:29:02 [info     / 135kB] Task 2 is started
+2024-02-26 23:29:02 [debug    / 133kB]   - got ip address
+2024-02-26 23:29:02 [info     / 131kB] Pico is connected to 192.168.15.185
+2024-02-26 23:29:02 [info     / 129kB] Pico Wifi is alive
+2024-02-26 23:29:05 [info     / 127kB] Startup pico done
+2024-02-26 23:29:06 [info     / 125kB] Task 3 is started
+2024-02-26 23:29:06 [info     / 123kB] connection to mqtt broker
+2024-02-26 23:29:07 [info     / 121kB] MQTT connected
+2024-02-26 23:29:11 [info     / 116kB] Counter loop troughs 1
+2024-02-26 23:29:11 [info     / 114kB] Start the main task for temperature read
+2024-02-26 23:29:11 [info     / 112kB] Scan result []
+2024-02-26 23:29:11 [info     / 110kB] No sensors detected!
+2024-02-26 23:29:21 [info     / 109kB] Counter loop troughs 2
+2024-02-26 23:29:22 [info     / 107kB] Start the main task for temperature read
+2024-02-26 23:29:22 [info     / 105kB] Scan result []
+2024-02-26 23:29:22 [info     / 103kB] No sensors detected!
+2024-02-26 23:29:32 [info     / 138kB] Counter loop troughs 3
+2024-02-26 23:29:32 [info     / 136kB] Start the main task for temperature read
+2024-02-26 23:29:32 [info     / 134kB] Scan result []
+2024-02-26 23:29:32 [info     / 132kB] No sensors detected!
+2024-02-26 23:29:34 [info     / 130kB] Pico Wifi is alive
+2024-02-26 23:29:42 [info     / 126kB] Counter loop troughs 4
+2024-02-26 23:29:42 [info     / 124kB] Start the main task for temperature read
+2024-02-26 23:29:42 [info     / 122kB] Scan result []
+2024-02-26 23:29:42 [info     / 120kB] No sensors detected!
+2024-02-26 23:29:52 [info     / 118kB] Counter loop troughs 5
+2024-02-26 23:29:52 [info     / 117kB] Start the main task for temperature read
+2024-02-26 23:29:52 [info     / 114kB] Scan result []
+2024-02-26 23:29:52 [info     / 113kB] No sensors detected!
+2024-02-26 23:30:02 [info     / 109kB] Counter loop troughs 6
+2024-02-26 23:30:03 [info     / 107kB] Start the main task for temperature read
+2024-02-26 23:30:03 [info     / 105kB] Scan result []
+2024-02-26 23:30:03 [info     / 103kB] No sensors detected!
+2024-02-26 23:30:04 [info     / 101kB] Pico Wifi is alive
+2024-02-26 23:30:13 [info     / 136kB] Counter loop troughs 7
+2024-02-26 23:30:13 [info     / 134kB] Start the main task for temperature read
+2024-02-26 23:30:13 [info     / 132kB] Scan result []
+2024-02-26 23:30:13 [info     / 130kB] No sensors detected!
+2024-02-26 23:30:23 [info     / 126kB] Counter loop troughs 8
+2024-02-26 23:30:23 [info     / 124kB] Start the main task for temperature read
+2024-02-26 23:30:23 [info     / 122kB] Scan result []
+2024-02-26 23:30:23 [info     / 106kB] No sensors detected!
+2024-02-26 23:30:34 [info     / 104kB] Counter loop troughs 9
+2024-02-26 23:30:34 [info     / 103kB] Start the main task for temperature read
+2024-02-26 23:30:34 [info     / 100kB] Scan result []
+2024-02-26 23:30:34 [info     /  99kB] No sensors detected!
+2024-02-26 23:30:35 [info     / 136kB] Pico Wifi is alive
+2024-02-26 23:30:44 [info     / 132kB] Counter loop troughs 10
+2024-02-26 23:30:44 [info     / 130kB] Start the main task for temperature read
+2024-02-26 23:30:44 [info     / 128kB] Scan result []
+2024-02-26 23:30:44 [info     / 126kB] No sensors detected!
+2024-02-26 23:30:54 [info     / 122kB] Counter loop troughs 11
+2024-02-26 23:30:54 [info     / 120kB] Start the main task for temperature read
+2024-02-26 23:30:54 [info     / 118kB] Scan result []
+2024-02-26 23:30:54 [info     / 116kB] No sensors detected!
+2024-02-26 23:31:05 [info     / 114kB] Counter loop troughs 12
+2024-02-26 23:31:05 [info     / 113kB] Start the main task for temperature read
+2024-02-26 23:31:05 [info     / 110kB] Scan result []
+2024-02-26 23:31:05 [info     / 109kB] No sensors detected!
+2024-02-26 23:31:05 [info     / 107kB] Pico Wifi is alive
+2024-02-26 23:31:15 [info     / 103kB] Counter loop troughs 13
+2024-02-26 23:31:15 [info     / 101kB] Start the main task for temperature read
+2024-02-26 23:31:15 [info     /  99kB] Scan result []
+2024-02-26 23:31:15 [info     /  97kB] No sensors detected!
+2024-02-26 23:31:55 [info     / 133kB] Pico is Powered on 
+2024-02-26 23:31:55 [info     / 131kB] Task 1 is started
+2024-02-26 23:31:55 [info     / 137kB] Startup pico
+2024-02-26 23:31:55 [info     / 135kB] Startup pico
+2024-02-26 23:31:55 [info     / 134kB] Wifi connection is True
+2024-02-26 23:31:56 [info     / 132kB] Task 2 is started
+2024-02-26 23:31:56 [debug    / 130kB]   - got ip address
+2024-02-26 23:31:56 [info     / 128kB] Pico is connected to 192.168.15.185
+2024-02-26 23:31:57 [info     / 126kB] Pico Wifi is alive
+2024-02-26 23:31:58 [info     / 123kB] Startup pico done
+2024-02-26 23:32:00 [info     / 121kB] Task 3 is started
+2024-02-26 23:32:00 [info     / 119kB] connection to mqtt broker
+2024-02-26 23:32:13 [info     / 117kB] MQTT error logon to broker
+2024-02-26 23:32:13 [info     / 115kB] Counter loop troughs 1
+2021-01-01 00:00:02 [info     / 133kB] Pico is Powered on 
+2021-01-01 00:00:03 [info     / 131kB] Task 1 is started
+2021-01-01 00:00:03 [info     / 129kB] Startup pico
+2021-01-01 00:00:03 [info     / 137kB] Startup pico
+2021-01-01 00:00:03 [info     / 135kB] Wifi connection is False
+2021-01-01 00:00:04 [info     / 133kB] Task 2 is started
+2021-01-01 00:00:04 [debug    / 131kB]   - connecting
+2021-01-01 00:00:06 [error    / 130kB] Wifi is not connected
+2024-02-26 23:32:44 [info     / 134kB] Pico is Powered on 
+2024-02-26 23:32:44 [info     / 132kB] Task 1 is started
+2024-02-26 23:32:44 [info     / 130kB] Startup pico
+2024-02-26 23:32:44 [info     / 129kB] Startup pico
+2024-02-26 23:32:44 [info     / 127kB] Wifi connection is True
+2024-02-26 23:32:45 [info     / 125kB] Task 2 is started
+2024-02-26 23:32:45 [debug    / 123kB]   - got ip address
+2024-02-26 23:32:45 [info     / 137kB] Pico is connected to 192.168.15.185
+2024-02-26 23:32:45 [info     / 135kB] Pico Wifi is alive
+2024-02-26 23:32:47 [info     / 132kB] Startup pico done
+2024-02-26 23:32:48 [info     / 130kB] Task 3 is started
+2024-02-26 23:32:48 [info     / 128kB] connection to mqtt broker
+2024-02-26 23:32:49 [info     / 126kB] MQTT connected
+2024-02-26 23:32:53 [info     / 122kB] Counter loop troughs 1
+2024-02-26 23:32:53 [info     / 120kB] Start the main task for temperature read
+2024-02-26 23:32:53 [info     / 118kB] Scan result []
+2024-02-26 23:32:53 [info     / 116kB] No sensors detected!
+2024-02-26 23:33:03 [info     / 114kB] Counter loop troughs 2
+2024-02-26 23:33:04 [info     / 112kB] Start the main task for temperature read
+2024-02-26 23:33:04 [info     / 110kB] Scan result []
+2024-02-26 23:33:04 [info     / 108kB] No sensors detected!
+2024-02-26 23:33:14 [info     / 104kB] Counter loop troughs 3
+2024-02-26 23:33:14 [info     / 123kB] Start the main task for temperature read
+2024-02-26 23:33:14 [info     / 120kB] Scan result []
+2024-02-26 23:33:14 [info     / 119kB] No sensors detected!
+2024-02-26 23:33:16 [info     / 117kB] Pico Wifi is alive
